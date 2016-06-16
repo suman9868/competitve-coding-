@@ -1,6 +1,9 @@
 //ordsum23 problem partial checking 
 //sample checking whether it is working or not 
-#include<iostream>
+
+//this will work only for n%2==0 and n<=45 
+                                        //so need to improve more on this 
+include<iostream>
 using namespace std;
 long long int fact(long long int n)
 {
